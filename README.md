@@ -1,5 +1,6 @@
 # 📖 **Pertemuan 1 : Pengantar Algoritma dan Pemrograman** 
 ## link Rpubs Syafiq: https://rpubs.com/syafiq/pengantaralgoritmadanpemrograman
+
 ## A. Apa itu Algoritma dan Pemrograman
 Algoritma adalah urutan instruksi atau langkah-langkah logis untuk menyelesaikan suatu masalah. <br>
 Program adalah kumpulan instruksi yang merupakan penyelesaian masalah dalam bahasa pemrograman tertentu. <br>
@@ -11,11 +12,21 @@ Program adalah kumpulan instruksi yang merupakan penyelesaian masalah dalam baha
 5. Effectiveness (Efektivitas): Langkah-langkah harus efektif, wajar dan dapat dikerjakan. <br>
 
 ## B. Menggambar Algoritma
-Untuk menuangkan ide penyelesaian masalah, terdapat beberapa notasi standar : <br>
+Untuk menuangkan ide penyelesaian masalah, terdapat beberapa notasi standar :
 1. Pseudocode: Deskripsi algoritma yang menyerupai kode program tapi lebih mudah dibaca manusia. <br>
 2. Flowchart (Diagram Alir): Representasi visual menggunakan simbol grafis untuk menunjukkan aliran proses dan logika keputusan. <br>
 3. DFD (Data Flow Diagram): Fokus menggambarkan aliran data dari sistem, bukan kontrol atau logikanya. <br>
 
 ## C. Struktur Algoritma
+Struktur algoritma terbagi kedalam 3 bagian yaitu:
+1. Runtunan: instruksi sederhana berurutan (contoh: menghitung luas lingkaran). <br>
+2. Pemilihan/percabangan: aksi hanya dijalankan jika syarat terpenuhi (if, if-else, case). <br>
+3. Perulangan (loop): instruksi dengan pola yang sama secara berulang-ulang (for, while, repeat). <br>
+- For : jika jumlah perulangan sudah diketahui
+- While : jika jumlah perulangan tidak diketahui dan mungkin
+tidak pernah ada
+- Repeat : jika jumlah perulangan tidak diketahui dan
+minimal sekali dilakukan
+
 ## D. Fungsi Dan Prosedur
 ## E. Teladan
