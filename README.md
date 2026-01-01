@@ -37,4 +37,8 @@ Struktur algoritma terbagi kedalam 3 bagian yaitu:
 ## E. Teladan
 - Misalkan akan dibuat algoritma kembalian uang dari suatu vending machine. Pecahan Uang yang tersedia pada mesin tersebut terdiri dari pecahan 10, 5, dan 1.
 - Untuk keperluan ini, kita akan menggunakan diagram alir untuk algoritmanya. Asumsi dalam algoritma ini adalah pecahan 10, 5, dan 1 yang tersedia di vending machine tidak terbatas.
+<div align="center" style="background-color:#0f1419; padding:12px; border-radius:8px; width:70%; margin:auto;">
+  <img src="Image/Pertemuan 1/Teladan.png" style="width:50%; max-width:40px;">
+</div>
+
 
