@@ -20,6 +20,10 @@ Untuk menuangkan ide penyelesaian masalah, terdapat beberapa notasi standar :
 ## C. Struktur Algoritma
 Struktur algoritma terbagi kedalam 3 bagian yaitu:
 1. Runtunan: instruksi sederhana berurutan (contoh: menghitung luas lingkaran). <br>
+<div align="center" style="background-color:#0f1419; padding:12px; border-radius:8px; width:70%; margin:auto;">
+  <img src="Image/Runtunan.png" alt="Matriks Korelasi" style="width:50%; max-width:40px;">
+</div>
+
 2. Pemilihan/percabangan: aksi hanya dijalankan jika syarat terpenuhi (if, if-else, case). <br>
 3. Perulangan (loop): instruksi dengan pola yang sama secara berulang-ulang (for, while, repeat). <br>
 - For : jika jumlah perulangan sudah diketahui
