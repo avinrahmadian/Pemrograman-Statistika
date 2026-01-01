@@ -41,4 +41,40 @@ Struktur algoritma terbagi kedalam 3 bagian yaitu:
   <img src="Image/Pertemuan 1/Teladan.png" style="width:50%; max-width:40px;">
 </div>
 
+```r
+x <- 28 #sejumlah uang yang akan dipecah
+
+# --- Bagian Pecahan 10 ---
+i <- 0
+y <- x - 10
+
+while(y >= 0) {
+  i <- i + 1
+  x <- y
+  y <- y - 10}
+
+# --- Bagian Pecahan 5 ---
+j <- 0
+y <- x - 5
+
+while(y >= 0) {
+  j <- j + 1
+  x <- y
+  y <- y - 5}
+
+# --- Bagian Pecahan 1 ---
+k <- 0
+y <- x - 1
+
+while(y >= 0) {
+  k <- k + 1
+  x <- y
+  y <- y - 1}
+
+# --- Output ---
+print(paste("Uang 10 sebanyak", i, "lembar"))
+print(paste("Uang 5 sebanyak", j, "lembar"))
+print(paste("Uang 1 sebanyak", k, "lembar"))
+```
+
 
